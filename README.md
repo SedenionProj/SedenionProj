@@ -10,5 +10,11 @@ Primarily doing graphics programming.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🚀 GitHub Stats:
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SedenionProj)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SedenionProj)
+
+### 🌐 Find Me Elsewhere:
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/your-channel](https://www.youtube.com/@quantale8159))
+[![Shadertoy](https://img.shields.io/badge/Shadertoy-222222?style=for-the-badge&logoColor=white)](https://www.shadertoy.com/user/sedenion)
