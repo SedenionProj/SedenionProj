@@ -16,5 +16,5 @@ Primarily doing graphics programming.
 
 ### 🌐 Find Me Elsewhere:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/your-channel](https://www.youtube.com/@quantale8159))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@quantale8159)
 [![Shadertoy](https://img.shields.io/badge/Shadertoy-222222?style=for-the-badge&logoColor=white)](https://www.shadertoy.com/user/sedenion)
